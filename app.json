@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "speedometerapp",
-    "slug": "speedometerapp",
+    "name": "SpeedeX",
+    "slug": "Step Counter Pedometer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
